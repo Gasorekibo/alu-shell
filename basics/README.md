@@ -1,1 +1,1 @@
-deleting file inside dr
+deleting a directory
