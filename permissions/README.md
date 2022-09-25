@@ -1,1 +1,1 @@
-adding excut permission to file owner
+adding excution permission to all users of the file
