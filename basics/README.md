@@ -1,1 +1,1 @@
-deleting all file end with ~
+creating directory
