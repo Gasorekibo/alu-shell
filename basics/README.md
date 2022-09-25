@@ -1,1 +1,1 @@
-backing to previous dir
+listing in long format a dir
