@@ -1,1 +1,1 @@
-listing hiden file in long format
+listing in long format
