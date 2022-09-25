@@ -1,1 +1,1 @@
-printing current working ddirectory
+listing the content file of directory
