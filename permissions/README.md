@@ -1,1 +1,1 @@
-setting file permission
+setting mode as oleh
