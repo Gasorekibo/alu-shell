@@ -1,1 +1,1 @@
-change grp owner
+changing directory owner
