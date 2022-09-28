@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir my_dir | chmod ugo= 751
+chmod -R ugo= 751 my_dir
