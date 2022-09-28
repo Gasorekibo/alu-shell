@@ -1,1 +1,1 @@
-creating directory permission
+creat and set permission of dir
