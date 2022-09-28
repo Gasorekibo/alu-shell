@@ -1,1 +1,1 @@
-changing directory owner
+changing symbolic link owner
