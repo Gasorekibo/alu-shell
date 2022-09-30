@@ -1,1 +1,1 @@
-creating a file with its content
+redirecting out put of command in a file
