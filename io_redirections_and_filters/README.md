@@ -1,1 +1,1 @@
-redirecting out put of command in a file
+duplicate last line of file
