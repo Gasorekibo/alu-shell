@@ -1,1 +1,1 @@
-duplicate last line of file
+deleting a file with extension .js
