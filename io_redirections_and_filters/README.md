@@ -1,1 +1,1 @@
-deleting a file with extension .js
+counting the number of directories in courrent working dir
