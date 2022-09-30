@@ -1,1 +1,1 @@
-counting the number of directories in courrent working dir
+printing new line
