@@ -1,1 +1,1 @@
-printing special characters
+Display the content of the /etc/passwd file
