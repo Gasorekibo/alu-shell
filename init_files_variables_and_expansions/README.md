@@ -1,1 +1,1 @@
- a script that lists environment variables
+printing all variable
