@@ -1,1 +1,1 @@
-a script that creates a new global variable
+adding a value to a variable
