@@ -1,1 +1,1 @@
-adding a value to a variable
+dividing the variable
