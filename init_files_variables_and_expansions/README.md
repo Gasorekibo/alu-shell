@@ -1,1 +1,1 @@
-a script that prints hello user
+adding directory to the path
