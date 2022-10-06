@@ -1,1 +1,1 @@
-adding directory to the path
+counting the number of directory
