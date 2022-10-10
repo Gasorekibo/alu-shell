@@ -1,59 +1,23 @@
-#!/usr/bin/env bash
-
-# displays numbers from 1 to 20.
-
-
-
-COUNTER=1
-
-while [ $COUNTER -lt 21 ]
-
-do
-
-    case $COUNTER in
-
-
-
-        4)
-
-	    echo $COUNTER
-
-	    echo "bad luck from China"
-
-	    ;;
-
-	
-
-	9)
-
-	    echo $COUNTER
-
-	    echo "bad luck from Japan"
-
-	    ;;
-
-	
-
-	17)
-
-	    echo $COUNTER
-
-	    echo "bad luck from Italy"
-
-	    ;;
-
-
-
-	*)
-
-	    echo $COUNTER
-
-	    ;;
-
-    esac
-
-
-
-    let COUNTER+=1
-
+#!#!/usr/bin/env bash
+#a Bash script that displays numbers from 1 to 20
+COUNT=1
+while [ $COUNT -le 20 ]
+do 
+case $COUNT
+case 
+4
+echo $COUNT
+echo "bad luck from China";
+case
+9
+echo $COUNT
+echo "bad luck from Japan";
+case 17
+echo $COUNT
+echo "bad luck from Italy";
+*)
+echo $COUNT;
+esac
+COUNT=$((COUNT+=1));
 done
+
