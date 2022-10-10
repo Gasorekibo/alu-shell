@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+#sript that print different output using while and if statement loop
+I=1;
+while [ $I -le '10' ]
+do
+if [ $I = 4 ]
+then
+echo "bad luck"
+elif [ $I = 8 ]
+then
+echo "bad luck"
+else
+echo "Best School"
+fi
+I=$((I+=1));
+done
