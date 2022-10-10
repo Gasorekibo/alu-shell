@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-displaying Best School 10 time and hi to line 9
+#displaying Best School 10 time and hi to line 9
 COUNTER=0
 
 while [ $COUNTER -lt 11 ]
