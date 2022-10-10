@@ -1,0 +1,8 @@
+##!/usr/bin/env bash
+# a Bash script that displays Best School 10 times using until loop
+READ=10;
+until [[ $READ -lt '0' ]];
+do
+echo "Best School"
+READ=$(($READ-1));
+done
