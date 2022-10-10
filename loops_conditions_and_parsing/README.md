@@ -1,1 +1,1 @@
-display different output in different loop
+a Bash script that displays numbers from 1 to 20
