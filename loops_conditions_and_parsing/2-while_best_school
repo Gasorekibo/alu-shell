@@ -5,7 +5,6 @@ while [ $COUNT -lt '10' ]
 do
 
 echo "Best School"
-
-let COUNT=$COUNT+1
+COUNT=$COUNT+1
 
 done
