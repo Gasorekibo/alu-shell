@@ -4,15 +4,14 @@ COUNT=1
 while [ $COUNT -le 20 ]
 do 
 case $COUNT
-case 
-4
+	4)
 echo $COUNT
 echo "bad luck from China";
 case
-9
+	9)
 echo $COUNT
 echo "bad luck from Japan";
-case 17
+case 17)
 echo $COUNT
 echo "bad luck from Italy";
 *)
