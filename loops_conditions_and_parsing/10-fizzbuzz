@@ -1,19 +1,39 @@
 #!/usr/bin/env bash
-#displaying nbr from 1-100 and fizzbuzz on different option
-COUNT=1
-while [ $COUNT -le 100 ]
+
+# displays Holberton School 10 times.
+
+
+
+COUNTER=1
+
+while [ $COUNTER -lt 101 ]
+
 do
-if [ $((COUNT%3)) = 0 ]
+
+if [ $((COUNTER%15)) = 0 ]
+
 then
+
+echo "FizzBuzz"
+
+elif [ $((COUNTER%3)) = 0 ]
+
+then
+
 echo "Fizz"
-elif [ $((COUNT%5)) = 0 ]
+
+elif [ $((COUNTER%5)) = 0 ]
+
 then
+
 echo "Buzz"
-elif [ $((COUNT%15)) = 0 ]
-then
-	echo "FizzBuzz"
+
 else
-echo "$COUNT"
+
+echo "$COUNTER"
+
 fi
-COUNT=$(( COUNT+=1))
+
+COUNTER=$((COUNTER+=1))
+
 done
