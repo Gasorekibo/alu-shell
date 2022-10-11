@@ -1,1 +1,1 @@
-a Bash script that displays numbers from 1 to 20
+displaying different message respective to option

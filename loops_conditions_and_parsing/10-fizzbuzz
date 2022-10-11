@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+#displaying nbr from 1-100 and fizzbuzz on different option
+COUNT=1
+while [ $COUNT -le 100 ]
+do
+if [ $((COUNT%3)) = 0 ]
+then
+echo "Fizz"
+elif [ $((COUNT%5)) = 0 ]
+then
+echo "Buzz"
+elif [ $((COUNT%15)) = 0 ]
+then
+	echo "FizzBuzz"
+else
+echo "$COUNT"
+fi
+COUNT=$(( COUNT+=1))
+done
