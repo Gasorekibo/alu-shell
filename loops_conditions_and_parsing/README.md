@@ -1,1 +1,1 @@
-displaying different message respective to option
+ a Bash script that gives you information about the school file
