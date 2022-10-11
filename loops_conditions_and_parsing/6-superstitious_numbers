@@ -3,20 +3,25 @@
 COUNT=1
 while [ $COUNT -le 20 ]
 do 
-case $COUNT
+case $COUNT in
 	4)
 echo $COUNT
-echo "bad luck from China";
-case
+echo "bad luck from China"
+;;
 	9)
 echo $COUNT
-echo "bad luck from Japan";
-case 17)
+echo "bad luck from Japan" 
+;;
+
+17)
 echo $COUNT
-echo "bad luck from Italy";
+echo "bad luck from Italy"
+;;
+
 *)
-echo $COUNT;
+echo $COUNT
+;;
 esac
-COUNT=$((COUNT+=1));
+COUNT=$((COUNT+=1))
 done
 
