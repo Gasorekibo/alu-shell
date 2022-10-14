@@ -1,1 +1,1 @@
-a Bash script that kills the process 7-highlander
+question 10 script
