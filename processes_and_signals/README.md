@@ -1,1 +1,1 @@
-script that print running process
+getting PID of bash
