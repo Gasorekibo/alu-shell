@@ -1,1 +1,1 @@
-getting PID of bash
+a script that display the PID of name starts with bash
