@@ -1,1 +1,1 @@
- a Bash script that stops 4-to_infinity_and_beyond process
+script that display message and display another once receive a signal
