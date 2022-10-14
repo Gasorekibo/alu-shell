@@ -1,1 +1,1 @@
-script that display message and display another once receive a signal
+a Bash script that kills the process 7-highlander
