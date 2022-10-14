@@ -1,1 +1,1 @@
-a script that display the PID of name starts with bash
+ a Bash script that stops 4-to_infinity_and_beyond process
